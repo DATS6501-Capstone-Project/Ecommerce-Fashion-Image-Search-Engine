@@ -21,12 +21,12 @@ if repo == "N":
         os.system("cp ./files/Makefile ./darknet")
         os.chdir("./darknet")
         os.system("pwd")
-        os.system("pip install --upgrade cmake")
-        os.system("sudo apt remove --purge cmake")
-        os.system("hash -r")
-        os.system("sudo snap install cmake --classic")
-        os.system("./build.sh")
-        os.system("make")
+        #os.system("pip install --upgrade cmake")
+        #os.system("sudo apt remove --purge cmake")
+        #os.system("hash -r")
+        #os.system("sudo snap install cmake --classic")
+        #os.system("./build.sh")
+        #os.system("make")
     elif cat == 9:
         url = 'https://drive.google.com/uc?id=19w4NNjsIkLtdLPPSqOIjet30EbH1Sa5o'
         output = 'cat_files.zip'
