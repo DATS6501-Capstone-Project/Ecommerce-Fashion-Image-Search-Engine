@@ -5,7 +5,7 @@ print("Darknet Architecture installation \n")
 #print("Is darknet repo is already cloned? (Y/N)")
 repo = str(input("Is darknet repo is already cloned? (Y/N)"))
 if repo == "N":
-    # os.mkdir("./check_new")
+    # os.mkdir("./check_new") # maybe name it DARKNET?
     os.chdir("./check_new") # directory does not already exist
     os.system("git clone https://github.com/AlexeyAB/darknet.git")
     print("Choose number of label category types - (3/9)")
