@@ -12,7 +12,7 @@ from PIL import Image
 #Load the model
 model = tf.keras.applications.InceptionResNetV2(include_top=False, weights='imagenet',pooling='avg')
 
-#Load the darknet results on all flipkart images
+#Load the darknet results on all flipkart images - This is obtained by running test command on darknet folder
 flipkart = pd.read_csv("./flipkart_results.csv")
 Lower = '|'.join(['Bottom', 'Shorts', 'Pants'])
 Upper = '|'.join(['Hoodie', 'Jackets', 'Tops'])
