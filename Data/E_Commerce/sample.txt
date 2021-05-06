@@ -1,0 +1,8 @@
+data/img/Hola_LA_Muscle_Tee/img_00000004.jpg
+data/img/Love_Knit_Tee/img_00000001.jpg
+data/img/Watercolor_Print_Linen_Tee/img_00000011.jpg
+data/img/French_Terry_Tee/img_00000006.jpg
+data/img/Haute_Nights_Tee/img_00000032.jpg
+data/img/Semi-Sheer_Scoop-Neck_Tee/img_00000003.jpg
+data/img/Big_Apples_Tee/img_00000026.jpg
+data/img/Free_Spirit_Tee/img_00000043.jpg
