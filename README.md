@@ -17,10 +17,10 @@ Contains streamlit (https://streamlit.io/) implementation of the fashion recomme
 ## Project Workflow
 
 #### Development
-![Workflow](work_flow1.jpg?raw=true)
+![Workflow](work_flow1.JPG?raw=true)
 
 #### Application
-![Workflow](work_flow2.jpg?raw=true)
+![Workflow](work_flow2.JPG?raw=true)
 
 ## Package installations
 1. Tensorflow
