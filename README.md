@@ -16,10 +16,10 @@ Contains streamlit (https://streamlit.io/) implementation of the fashion recomme
 
 ## Project Workflow
 
-#### Development
+#### Development Workflow
 ![Workflow](work_flow1.JPG?raw=true)
 
-#### Application
+#### Application Workflow
 ![Workflow](work_flow2.JPG?raw=true)
 
 ## Package installations
